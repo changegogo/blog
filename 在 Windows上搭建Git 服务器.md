@@ -31,3 +31,11 @@ git init --bare <my_repo_name>
 ```java
 git clone ssh://<user>@<ip-of-server>/<my_repo_name>
 ```
+本地新建项目，remote
+```java
+git remote add origin ssh://<user>@<ip-of-server>/<my_repo_name>
+```
+push
+```java
+git push --set-upstream origin master
+```
