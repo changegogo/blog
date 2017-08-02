@@ -10,7 +10,7 @@
 
 安装 Bitvise SSH Server 和 Git 时的选项都很随意，能用就好。Git 不需要特别的配置，甚至都不需要把路径添加到 PATH。Bitvise SSH Server 安装好之后会随系统启动，并且会在右下角添加控制台的图标。双击打开设置窗口。
 
-![]()
+![image](https://github.com/dailliwang/blog/blob/master/img/git.png)
 找到 Settings > Open easy settings，打开它。这里可以设置哪些账户可以登录 SSH，可以是 Windows 账户，或者是虚拟账户（Vistual accounts）。所谓的虚拟账户，顾名思义，就是由 Bitvise SSH Server 管理的账户。看起来虚拟账户比较简单，我们来新建一个。
 
 接下来配置这个虚拟账户的属性：
