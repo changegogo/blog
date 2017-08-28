@@ -107,10 +107,10 @@ $ pip install jinja2
 
 最后，一定要把模板放到正确的templates目录下，templates和app.py在同级目录下：
 ![image](https://github.com/dailliwang/blog/blob/master/img/loginerror.png)
-
+<br/>
 启动python app.py，看看使用模板的页面效果：
 ![image](https://github.com/dailliwang/blog/blob/master/img/loginerr.png)
-
+<br/>
 通过MVC，我们在Python代码中处理M：Model和C：Controller，而V：View是通过模板处理的，这样，我们就成功地把Python代码和HTML代码最大限度地分离了。
 
 使用模板的另一大好处是，模板改起来很方便，而且，改完保存后，刷新浏览器就能看到最新的效果，这对于调试HTML、CSS和JavaScript的前端工程师来说实在是太重要了。
