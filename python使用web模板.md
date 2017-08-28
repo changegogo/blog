@@ -109,7 +109,6 @@ $ pip install jinja2
 ![image](https://github.com/dailliwang/blog/blob/master/img/loginerror.png)  
 
 启动python app.py，看看使用模板的页面效果：  
-
 ![image](https://github.com/dailliwang/blog/blob/master/img/loginerr.png)  
 
 通过MVC，我们在Python代码中处理M：Model和C：Controller，而V：View是通过模板处理的，这样，我们就成功地把Python代码和HTML代码最大限度地分离了。
