@@ -39,7 +39,7 @@ linspace: 创建线段<br><br>
 a=np.array([1,2,3])
 print(a)
 # [1,2,3]
-```python
+```
 
 指定数据 dtype
 ```python
@@ -63,7 +63,7 @@ print(a)
 [[1 2 3]
 [2 3 4]]
 ```
-创建全零数组<>br
+创建全零数组
 ```python
 a = np.zeros((3,4)) # 数据全为0， 3行4列
 ```
