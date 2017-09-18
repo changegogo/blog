@@ -33,6 +33,8 @@ MVC中的Model在哪？Model是用来传给View的，这样View在替换变量�
 ```python
 from flask import Flask, request, render_template
 
+This is python example.
+
 app = Flask(__name__)
 
 @app.route('/', methods=['GET', 'POST'])
