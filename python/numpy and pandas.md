@@ -5,12 +5,16 @@ numpy and pandas
 安装
 
 windows:
+```python
 pip install numpy
 pip install pandas
+```
 
 OSX：
+```python
 pip3 install numpy
 pip3 install pandas
+```
 
 ```python
 # 将一个python二维数组转化为numpy数组
