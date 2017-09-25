@@ -1,1 +1,2 @@
 科学计算工具： Anaconda
+numpy,pandas,matplotlib
